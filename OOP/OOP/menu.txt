@@ -1,0 +1,17 @@
+3,Cappuccino,45000.0
+4,Latte,50000.0
+5,Trà đá,10000.0
+6,Americano,35000.0
+7,Mocha,55000.0
+8,Espresso,30000.0
+9,Matcha Latte,52000.0
+10,Trà sữa trân châu,40000.0
+11,Nước cam ép,35000.0
+12,Sinh tố bơ,45000.0
+13,Soda chanh,28000.0
+14,Croissant bơ,25000.0
+15,Bánh tiramisu,45000.0
+16,Bánh phô mai,50000.0
+17,Brownie chocolate,38000.0
+18,Bánh cookies,15000.0
+19,Bánh mousse dâu,48000.0

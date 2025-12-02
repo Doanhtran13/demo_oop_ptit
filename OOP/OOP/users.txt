@@ -1,0 +1,2 @@
+admin,admin123,ADMIN
+du1708,12345678,CUSTOMER
